@@ -1,7 +1,7 @@
 
 # Apex Unit Test Utility Class
 
-<a href="https://githubsfdeploy.herokuapp.com/KGFTW/Apex-TestUtils">
+<a href="https://githubsfdeploy.herokuapp.com?owner=KGFTW&repo=Apex-TestUtils">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
 </a>
