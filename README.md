@@ -1,4 +1,13 @@
+
 # Apex Unit Test Utility Class
+
+<a href="https://githubsfdeploy.herokuapp.com/KGFTW/Apex-TestUtils">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
+# Documentation
+
 This unit test utility class helps you instanciate an admin test user (or any other user type), automatically through singletons, on any sandbox or production environment in a generic way.
     
 # How to use it ?
